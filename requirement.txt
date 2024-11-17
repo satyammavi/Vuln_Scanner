@@ -5,4 +5,4 @@ ipaddress
 xml.etree.ElementTree
 sys
 time
-scapy.all
+scapy
