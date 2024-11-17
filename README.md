@@ -9,14 +9,15 @@ cd Vuln_Scanner
 Pip3 install -r requirement.txt
 python3 main.py
 ```
-![Vuls-Abstract](Photo/Satyam2.mp4)
 
 ## Detail
-Vulnerability Scanner Tool are made in Python, nmap . In this tool we use a nmap to scan a network and database which help to get a CVE details . In this we have a 6 opions where you chose one of these options in your requerments its scan Top 1000 ports and service name and also Total 65535 ports.
-- This Tool is automatically detect the Ip address
-- It's Scan all device how connect in the network
-- you also used to monitiring a network packets
-- You can scan a specific ip address
+The Vulnerability Scanner Tool is built in Python using the Nmap library. This tool utilizes Nmap to scan a network and integrates with a database to retrieve CVE (Common Vulnerabilities and Exposures) details. It offers six options, allowing users to choose according to their requirements. The tool supports scanning the top 1,000 ports and services as well as all 65,535 ports.
+
+## Key Features:
+- Automatically detects the IP address.
+- Scans all devices connected to the network.
+- Can be used to monitor network packets.
+- Allows scanning of a specific IP address.
 
 
 
